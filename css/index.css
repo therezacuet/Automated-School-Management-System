@@ -1,0 +1,202 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.marquee_all{background: #EAE9E1;}
+.marquee{background: #EAE9E1;height: 40px;padding: 1px;width: 1100px;margin: 0 auto;display: block;}
+.marquee h1{color: red; font-size: 22px;padding: 5px;    font-family: "Hind Siliguri",sans-serif;}
+.all_notice{
+   width: 1100px;
+    margin: 21px auto;
+    height: 400px;
+    border: 2px solid #022E63;
+        background-color: #F8FAFC;
+}
+.notice{
+ width: 212px;
+float: left;
+overflow: hidden;
+margin: 13px 0 0 0;
+position: relative;
+height: 377px;
+}
+.notice h2{
+color: #022E63;
+font-weight: bold;
+margin: 0 0 17px 0;
+padding: 6px 0 0 0;
+font-size: 14px;
+}
+
+.notice_icon{
+        width: 54px;
+    float: left;
+    margin: 0 11px 0 21px;
+}
+.devider_vertical{
+	height: 278px;
+    float: left;
+    border: 1px solid #002C61;
+    margin: 58px 0 0 0;
+}
+
+.footer_all{background: none repeat scroll 0 0 #333333;}
+.footer{background: none repeat scroll 0 0 #333333;
+width: 1100px;margin: 0 auto;display: block;
+font-size: 16px;
+padding: 10px;
+margin-top: 30px;
+height: 250px;}
+.footer_content{width: 1100px;
+    height: 265px;
+    margin: 0px auto;}
+.fix{overflow:hidden}
+.divider{}
+.social{    width: 262px;
+    border-right: 1px solid #DADADA;
+    height: 200px;
+    margin-top: 16px;float: left;}
+.social a img{margin-top: 72px;}
+.social2{    width: 269px;
+    border-right: 1px solid #DADADA;
+    height: 200px;
+    float: left;
+    margin: 16px 0px 0px 20px;}
+.social2 a img{margin-top: 10px;float: left;}
+.social3{    width: 269px;
+    border-right: 1px solid #DADADA;
+    height: 200px;
+    float: left;
+    margin: 16px 0px 0px 20px;}
+.social3 a h1{    color: #A349A4;
+    margin: 47px 0 10px 19px;}
+.social3 a h2{    font-size: 17px;
+    color: #A349A4;
+    margin: 0px 0px 1px 19px;}
+.social3 a h3{margin-top: 50px; }
+.social4 a img{margin: 67px 0 0 30px}
+.foot {text-align: center;
+    color: #DDDBDB;
+    font-size: 20;
+    line-height: 30.5px;
+}
+.middle{
+width: 1100px;
+margin: 10px auto;
+height: 643px;
+}
+.headmessage{
+	    width: 500px;
+    padding: 10px;
+    border: 2px solid #440125;
+    height: 649px;
+    float: left;
+        margin: 0 10px 0 0;
+            background-color: #FAF6F8;
+}
+.notice_icon2{
+	width: 54px;
+    float: left;
+    margin: 0 11px 0 10px;
+}
+.historyh2{
+color: #083E3D;
+font-weight: bold;
+margin: 0 0 0 0;
+padding: 11px 0 30px 0;
+}
+.headh2{
+	color: #440125;
+    font-weight: bold;
+    margin: 0 0 0 0;
+    padding: 11px 0 20px 0;
+}
+.head_pic{
+	        width: 150px;
+
+}
+.head_div{
+    height: 150px;
+    overflow: hidden;
+    border-radius: 150px;
+    width: 150px;
+    margin: 0 0px 17px 33%;
+}
+.his{
+    width: 582px;
+    height: 649px;
+    float: left;
+}
+.history{
+
+    overflow: hidden;
+    height: 310px;
+    padding: 10px;
+    border: 2px solid #013C3A;
+    margin: 0 0 0 0;
+    background-color: #F2F9F9;
+    color: #000;
+}
+.history_pic{
+width: 420px;
+height: 230px;
+margin: 0 0 23px 76px;
+}
+.no_view_all{
+        position: absolute;
+left: 87px;
+top: 29;
+    color: #022E63;
+}
+.right{ border-bottom: 1px solid #063166;
+padding: 12px;
+height: 76px;
+color: #063166;
+margin: -5px 10px 0 10px;}
+.right a{ color: #063166;
+font-size: 12px;
+font-weight: bold;}
+.right a:visited{ color:#063166;}
+
+.rname{height: 42px; 
+}
+.rdate{    height: 22px;font-family: 'Slabo 27px', serif;}
+.right:hover{
+    background-color: #E8EEF6;
+}
+.rname h3{
+    font-size: 14px;
+    font-family: "Hind Siliguri",sans-serif;
+}
+.google_map{
+border: 2px solid #D99529;
+margin: 15px 0 0 0;
+padding: 10px;
+height: 280px;
+background: #FAF5EC;
+width: 1092px;
+}
+
+.google_map h2{
+    color: #D99529;
+font-weight: bold;
+margin: 0 0 0 0;
+padding: 11px 0 30px 0;
+}
+.link{
+border: 2px solid #C21F4C;
+margin: 10px 0 0 0;
+padding: 10px;
+height: 328px;
+background-color: #F9F4F5;
+}
+.link h2{
+color: #C21F4C;
+font-weight: bold;
+margin: 0 0 0 0;
+padding: 11px 0 30px 0;
+}
+.alink{
+font-family: "Hind Siliguri",sans-serif; color: #3985B6; padding: 0px 0px 0px 8px;
+}
+.alink:hover{
+    color: #BD0F4D;
+}

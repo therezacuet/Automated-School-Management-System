@@ -1,0 +1,154 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.login_main{
+	
+
+}
+.login_content{
+	position: relative;
+	width: 1100px;
+	height: 670px;
+}
+.login_content h2{
+	color: #000;
+font-size: 34px;
+margin: 0 0 0 20%;
+
+}
+.login_tab_panels{
+margin: 27px auto 0px;
+width: 650px;
+box-shadow: 4px 4px 7px #666;
+}
+.login_tab_panels ul{
+	margin: 0px;
+	padding: 0px;
+	border-radius: 0 0 0 0;
+}
+.login_tab_panels ul li {
+list-style-type: none;
+display: inline-block;
+background: #817984;
+margin: 0px;
+padding: 0px 0px;
+color: #fff;
+font-weight: 400;
+cursor: pointer;
+width: 323px;
+text-align: center;
+font-size: 27px;
+height: 76px;
+line-height: 73px;
+}
+.login_tab_panels ul li:hover{
+		background: #F2F2F2;
+	color: #6D4A70;
+}
+.login_tab_panels ul li.active{
+color: #555;
+background: #fff;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+border-top: 1px solid #000;
+
+}
+.login_tab_panels .panel{
+	display: none;
+	padding: 0px;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+border-bottom: 1px solid #000;
+}
+.login_tab_panels .panel.active{
+	display: block;
+}
+form {
+    padding: 2em 2em;
+}
+form li {
+	border: 2px ridge rgba(187, 185, 189, 0.11);
+	border-radius: 0.3em;
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	list-style: none;
+	margin-bottom: 12px;
+	background: #F0EEF0;
+}
+input[type="submit"] {
+	margin-top: 1em;
+	color: #fff;
+	cursor: pointer;
+	font-weight: 900;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	padding: 12px 0px;
+	width: 35%;
+	font-size: 18px;
+	background: #6C496F;
+	border: 2px solid #6C496F;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+}
+input[type="text"], input[type="password"] {
+	font-family: 'Droid Sans', sans-serif;
+	width: 70%;
+	padding: 0.5em 2em 0.5em 1em;
+	color: #B8B8B8;
+	font-size: 20px;
+	outline: none;
+	background: none;
+	border: none;
+}
+
+.user {
+	background: url(../image/icons.png) no-repeat 0px 0px;
+	height: 30px;
+	width: 30px;
+	display: block;
+	float: right;
+	margin: 12px 9px 9px 0px;
+}
+.lock {
+	background: url(../image/icons2.png) no-repeat 0px 0px;
+	height: 30px;
+	width: 30px;
+	display: block;
+	float: right;
+	margin: 12px 9px 9px 0px;
+}
+.icon {
+	background: url(../image/icons.png) no-repeat 0px 0px;
+	height: 30px;
+	width: 30px;
+	display: block;
+	float: right;
+	margin: 12px 9px 9px 0px;
+}
+
+.clear {
+	clear: both;
+}
+.message.warning {
+	background: rgba(255, 255, 255, 0.33);
+
+	
+	margin: 0% auto 0;
+	width: 100%;
+}
+.warning {
+	text-align: center;
+	margin: 14% auto;
+	width: 280px;
+	background: rgba(82, 97, 97, 0.68);
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-o-border-radius: 6px;
+}
+.message {
+	
+	position: relative;
+}

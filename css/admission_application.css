@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.admission_aplication{
+	width: 1185px;
+margin: 2px auto;
+border: 2px solid;
+height: 1000px;
+overflow: scroll;
+overflow-x: hidden;
+}
+.admission_aplication_body{}
+.admission_aplication_table{
+	text-align: center;
+}
+.admission_pic{
+	width: 50px;
+height: 50px;
+}
+.trans{
+	width: 100px;
+height: 29px;
+padding: 0px 5px 0px 5px;
+}
+.roll{
+	width: 80px;
+height: 29px;
+padding: 0px 5px 0px 5px;
+}
+.field1{width: 20px;background: #ebebeb;}
+.field0{width: 40px;background: #ebebeb;}
+.field3{width: 130px;background: #ebebeb;}
+.field4{width: 130px;background: #ebebeb;}
+.field5{width: 130px;background: #ebebeb;}
+.field6{width: 100px;background: #ebebeb;}
+.field7{width: 100px;background: #ebebeb;}
+.field8{width: 95px;background: #ebebeb;}
+.field9{width: 95px;background: #ebebeb;}
+.field10{background: #ebebeb;width: 110px;}
+.field2{background: #ebebeb;}
+.field12{background: #ebebeb;}
+.field11{width: 62;background: #ebebeb;}
+.admission_update{background: #7786C1;
+padding: 5 05 7 6;
+border-radius: 5px;
+color: #fff;}
+.admission_update:hover{background: #1365A0;}
+.admisstion_search_name{
+	height: 35px;
+border: 2px solid #0081F3;
+border-radius: 4px;
+width: 200px;
+}
+.admisstion_search_by_cat{
+	height: 35px;
+border: 2px solid #0081F3;
+border-radius: 4px;
+width: 200px;
+}
+.admisstion_search_by{}
+.admisstion_search{
+	height: 50px;
+position: relative;
+float: right;
+width: 460px;
+margin: 10px 0 0 237px;
+}
+.admisstion_search_submit{
+background: url('../image/search.png');
+background-repeat: no-repeat;
+border: 0;
+display: block;
+width: 40px;
+height: 40px;
+position: absolute;
+left: 408px;
+text-indent: -999999999999px;
+top: -2px;
+
+}

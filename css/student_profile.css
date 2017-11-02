@@ -1,0 +1,137 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+tbody{}
+
+.student_profile_sidemenu{
+    
+    margin: 1px 0px 0px 0px;
+}
+.student_profile_width{
+	width: 1100;
+	margin: 0 auto;
+}
+.student_profile_sidemenu_content{
+width: 227px;
+    margin: 0 0px 0 8px;
+    padding: 1px;
+float: left;}
+.student_profile_sidemenu_content ul{margin: 0 0 0 0;
+padding: 0px;
+list-style: none;
+}
+.student_profile_sidemenu_content ul li{    
+	margin: 14px 0 14px 0;
+    border: 1px solid #272822;
+    font-size: 18px;
+    padding: 9px;
+    cursor: pointer;}
+.student_profile_sidemenu_content ul li:hover{background: #EBEBEB;position: relative;}
+.student_profile_sidemenu_content ul li a{color: #272822;margin-left:2px;display: inline-block;}
+.student_profile_sidemenu_content ul li a:hover{}
+
+.profile_table{color: #272822;
+font-size: 18px;
+
+width: 810px;
+
+margin: 21px 0px 20px 80px;}
+
+.profile_body{
+	overflow: hidden;
+	color: #272822;
+	padding: 15px;
+}
+.fldl{width: 325;
+padding: 0 0 3 29;}
+.profile_body2{
+	border: 1px solid;
+	    margin: 0px 0px 30px 0px;
+	    position: relative;
+}
+.student{
+	position: absolute;
+	top: -12px;
+	left: 9px;
+	font-size: 23px;
+	background: #fff;
+	width: 90px;
+	text-align: center;
+}
+.student2 img{
+	position: absolute;
+	top: 24px;
+	left: 669px;
+	width: 140px;
+	height: 140px;
+	box-shadow: 2px 2px 4px #676C67;
+	border-radius: 5px;
+}
+.chagepass_table{
+	color: #272822;
+	font-size: 18px;
+	width: 600px;
+	margin: 50px 0px 0px 108px;
+
+}
+.cf{
+	width: 260px;
+}
+.chagepass_body{
+	overflow: hidden;
+	color: #272822;
+	padding: 15px;
+
+}
+.chagepass_body2{
+	border: 1px solid;
+	margin: 0px 0px 30px 0px;
+	height: 432px;
+	position:relative;
+
+}
+.change_pass_filed{
+	width: 300px;
+	height: 33px;
+	margin: 10px;
+	font-size: 14px;
+	padding: 0 17px 2px 17px;
+}
+.change_pass_submit{
+	margin-top: 3em;
+	color: #fff;
+	cursor: pointer;
+	font-weight: 900;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	padding: 12px 0px;
+	width: 19%;
+	font-size: 18px;
+	background: #6C496F;
+	border: 2px solid #6C496F;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+	margin: 45 0 0 375;
+}
+
+.c_error{
+	    margin: 44px 0 0 107px;
+    font-size: 22px;
+    color: red;
+    height: 25px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

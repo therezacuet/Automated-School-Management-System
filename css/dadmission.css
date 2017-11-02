@@ -1,0 +1,147 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.ac_body{
+width: 800px;
+margin: 0 auto;
+height: 450px;
+border: 10px solid #854215;
+}
+.ac_header{
+
+}
+.ac_header_left{
+
+}
+.ac_header_left_upper{
+
+}
+.ac_logo{
+
+}
+.ac_logo_pic{
+width: 100px;
+margin: 8px;
+float: left;
+}
+.ac_had{
+margin: 0 auto;
+width: 490px;
+text-align: center;
+height: 117px;
+}
+.ac1{
+font-family: 'olde_englishregular';
+font-size: 35px;
+padding: 14 00 0 0;
+color: #000;
+}
+.ac2{
+font-size: 23;
+padding: 12 0 0 0;
+color: #413731;
+}
+.ac3{
+font-size: 21;
+padding: 8 0 0 0;
+}
+.ac_header_right{
+position: relative;
+}
+.ac_header_right_pic{
+position: absolute;
+width: 110px;
+border: 4px solid #000;
+left: 669px;
+top: -114px;
+height: 110px;
+}
+.ac_header_lower{
+width: 777px;
+font-size: 22;
+color: #000;
+border-bottom: 3px dashed #854215;
+padding-bottom: 4px;
+}
+.ref{
+float: left;
+margin: 0 448 0 17;
+}
+.roll{
+
+}
+
+.ac_mid{
+height: 183px;
+}
+.ac_mid_left{
+	margin: 8px 0 0 15px;
+	width: 548px;
+	float: left;
+}
+.ac_info_left{
+font-size: 23px;
+color: #000;
+padding: 5px 33px 0 0;
+}
+.ac_info_right{
+font-size: 23px;
+color: #000;
+border-bottom: 2px solid #000;
+width: 328;
+}
+.ac_info_mid{
+font-size: 23px;
+color: #000;
+padding: 0 7px 0 0;
+}
+.ac_mid_right{
+	padding: 80px 0 0 577px;
+	position: relative;
+}
+.signature{
+	width: 140px;
+position: absolute;
+left: 598px;
+top: 109px;
+}
+.signature_name{
+	margin: 73 0 0 0;
+font-size: 18px;
+color: #000;
+border-top: 2px solid;
+width: 188;
+padding: 0 0 0 6;
+}
+.ac_footer{
+width: 769;
+border: 3px solid #505050;
+margin: 0 auto;
+height: 96;
+	padding: 4px 10px 4px 10px;
+}
+.print_button{
+	width: 150;
+height: 50;
+margin: 10px 0 38 1005;
+background: #66B2E9;
+border-radius: 5px;
+color: white;
+font-size: 19;
+}
+.print_button:hover{
+	width: 150;
+height: 50;
+margin: 10px 0 38 1005;
+background: #0C80F3;
+
+border-radius: 5px;
+color: white;
+font-size: 19;
+}
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}

@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.registrartion{
+	margin: 0px auto;
+}
+.student{
+	position: absolute;
+top: 10px;
+left: 45px;
+font-size: 26px;
+background: #F0F0F0;
+width: 90px;
+text-align: center;
+}
+.profile{
+	position: absolute;
+top: 10px;
+left: 500px;
+font-size: 20px;
+background: #F0F0F0;
+width: 60px;
+text-align: center;
+}
+.regis{
+	padding: 20px;
+background-color: #F0F0F0;
+width: 1100px;
+margin: 20px auto;
+position: relative;
+}
+.regis2{
+	border: 1px solid #CDCDCD;
+	padding: 26px 0px 17px 0px;
+}
+
+.error{
+	position: absolute;
+left: 440px;
+font-size: 20px;
+color: red;
+top: 27px;
+}
+.fldl{
+	width: 245px;
+text-align: right;
+font-size: 21px;
+padding: 0 15px 5px 0;
+	
+}
+.fldr{
+border: 1px solid #c4c4c4;
+width: 410px;
+height: 38px;
+margin: 3px;
+padding: 0 0 0 16px;
+font-size: 17px;
+}
+
+.login_tab_panels{
+	margin: 53px auto;
+	width: 1100px;
+}
+.login_tab_panels ul{
+	margin: 0px;
+	padding: 0px;
+	border-radius: 0 0 0 0;
+}
+.login_tab_panels ul li {
+	list-style-type: none;
+	display: inline-block;
+	background: #6D4A70;
+	margin: 0px;
+	padding: 0px 0px;
+	color: #fff;
+	font-weight: 400;
+	cursor: pointer;
+	width: 323px;
+	text-align: center;
+	font-size: 27px;
+	height: 75px;
+	line-height: 73px;
+}
+.login_tab_panels ul li:hover{
+		background: #F2F2F2;
+	color: #6D4A70;
+}
+.login_tab_panels ul li.active{
+	color: #555;
+background: #F2F2F2;
+
+}
+.login_tab_panels .panel{
+	display: none;
+	
+	padding: 0px;
+}
+.login_tab_panels .panel.active{
+	display: block;
+}
+
+.reg_submit {
+	margin-top: 3em;
+	color: #fff;
+	cursor: pointer;
+	font-weight: 900;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	padding: 12px 0px;
+	width: 35%;
+	font-size: 18px;
+	background: #6C496F;
+	border: 2px solid #6C496F;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+}

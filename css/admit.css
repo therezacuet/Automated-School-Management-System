@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.admitcard_body{
+width: 1000px;
+margin: 2px auto;
+border: 1px solid;
+height: 430px;
+position: relative;
+}
+.admitcard_info{
+width: 750px;
+margin: 80px auto;
+}
+
+.adh1{
+float: left;
+color: #0C80F3;
+font-size: 28px;
+margin: 0 97 19 0;
+}
+.adh2{
+float: left;
+color: #0C80F3;
+font-size: 28px;
+margin: 0 97 19 0;
+}
+.input_field{
+width: 282;
+height: 49px;
+margin: 0 22 0 0;
+padding: 0 0 0 12;
+border-radius: 6px;
+border: 3px solid #80B4EF;
+font-size: 19px;
+float: left;
+}
+
+.input_field:hover{
+width: 282;
+height: 49px;
+margin: 0 22 0 0;
+padding: 0 0 0 12;
+border-radius: 6px;
+border: 3px solid #0C80F3;
+font-size: 19px;
+float: left;
+}
+.acsubmit{
+background: url('../image/arrow1.png');
+background-repeat: no-repeat;
+border: 0;
+display: block;
+width: 50px;
+height: 50px;
+text-indent: -999999999px;
+margin: 20px 0 0 0;
+
+}
+
+.acsubmit:hover{
+background: url('../image/arrow.png');
+background-repeat: no-repeat;
+border: 0;
+display: block;
+width: 50px;
+height: 50px;
+text-indent: -999999999px;
+margin: 20px 0 0 0;
+}
+
+.adicon{
+    width: 28px;
+    height: 28px;
+    position: relative;
+    top: 6px;
+}
+
+
+.ac_header{
+	font-size: 20px;
+	line-height: 30px;
+	font-size: 20px;
+	margin: 0 0 44 0;
+	color: #000; 
+	font-family: "Hind Siliguri",sans-serif;
+}
+.ac_header_pic{
+
+}

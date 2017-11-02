@@ -1,0 +1,162 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.ahead_body{
+margin: 5px auto;
+width: 800px;
+}
+.ahead{
+border-bottom: 2px solid;
+margin: 0 0 27 0;
+}
+.ahead_left{
+
+}
+.ahead_left img{
+width: 90;
+float: left;
+height: 90;
+overflow: hidden;
+margin: 17 0 0 0;
+}
+
+.ahead_left h1{
+font-family: 'olde_englishregular';
+font-size: 44px;
+font-weight: bold;
+padding: 17 0 15 20;
+display: block;
+overflow: hidden;
+width: 610px;
+}
+.ahead_left h2{
+padding: 0 0 21 20;
+overflow: hidden;
+}
+.ahead_right{
+float: right;
+overflow: hidden;
+font-size: 8px;
+}
+.ahead_right h1{
+
+}
+.body{
+	width: 800;
+margin: 0 auto;
+padding: 10;
+}
+.signature_of_headmaster{
+float: right;
+margin: 100px 0 0 0;
+border-top: 1px solid;
+font-size: 14px;
+color: #000;
+}
+
+.signature_of_headmaster h2{
+	
+}
+
+.button{
+margin: 155px 4px 0 0;
+width: 114px;
+height: 36px;
+
+position: relative;
+border-radius: 5px;
+color: white;
+font-size: 19px;
+border: none;
+}
+.accept{
+padding: 7px 25px;
+top: -2px;
+left: 2px;
+background: #39873D;
+}
+.reject{
+background: #C10000;
+}
+.print{
+	float: left;
+	background: #3972B5;
+}
+.print:hover{
+background: #0E5E9F;
+}
+.accept:hover{
+background: #0F5F14;
+}
+.reject:hover{
+background: #751111;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+
+@media print
+{ 
+.ahead_body{
+margin: 5px auto;
+width: 800px;
+}
+.ahead{
+border-bottom: 2px solid;
+margin: 0 0 27 0;
+}
+.ahead_left{
+
+}
+.ahead_left img{
+width: 90;
+float: left;
+height: 90;
+overflow: hidden;
+margin: 17 0 0 0;
+}
+
+.ahead_left h1{
+font-family: 'olde_englishregular';
+font-size: 44px;
+font-weight: bold;
+padding: 17 0 15 20;
+display: block;
+overflow: hidden;
+width: 610px;
+}
+.ahead_left h2{
+padding: 0 0 21 20;
+overflow: hidden;
+}
+.ahead_right{
+float: right;
+overflow: hidden;
+font-size: 8px;
+}
+.ahead_right h1{
+
+}
+.body{
+	width: 800;
+margin: 0 auto;
+padding: 10;
+}
+.signature_of_headmaster{
+float: right;
+margin: 100px 0 0 0;
+border-top: 1px solid;
+font-size: 14px;
+color: #000;
+}
+
+.signature_of_headmaster h2{
+	
+}
+
+}

@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.message_option{}
+.message_option ul{}
+.message_option ul li{}
+.message_option ul li:hover{}
+.message_option ul li a{}
+
+.message_option{height: 45px;
+width: 831px;
+margin: 1px auto;
+background-color: #0086B7;}
+.message_option ul{margin:0;padding:0;list-style:none;width: 730px;}
+.message_option ul li{float:left;font-size: 18px;}
+.message_option ul li:first-child{border-right: 1px solid #fff}
+.message_option ul li a{color: white;display: block;margin-left: 7px;padding: 10 12px;}
+.message_option ul li a:hover{color:white;background: #4EA85B;border-radius: 2px }
+.min_pro{height: 64px;
+margin: 2px 0 0 138px;}
+.min_pro a{color:#000;}
+.min_pro a:first-child{color:#0086B7; font-size: 20px}
+.min_pro_pic{width: 50px;
+height: 50px;
+border-radius: 50px;
+border: 4px solid #0086B7;
+float: left;
+margin: 0 18px 0 0;}
+.min_pro_name{}
+.conversations_name h2{margin: 0 0 22 12;}
+.start_new_conversation h2{margin: 0 0 22 12;}
+.min_pro_left{height: 64px;
+margin: 0 116px 0 116px;
+width: 600px;}
+.min_pro_name_left h3{}
+.min_pro_right{height: 64px;
+margin: 0 116px 0 116px;
+width: 600px;}
+.min_pro_name_right{float: right;}
+.min_pro_name_right h3{}
+.right{float: right;
+margin: 0 0 0 19px;}
+.message_text{    width: 449px;
+float: left;
+height: 45px;
+margin: -30px 10px 0 16px;
+padding: 13px 13px 5px 13px;}
+.massage_sent{    width: 92;
+    height: 45;
+    background: #0086B7;
+    color: #fff;
+    font-size: 26;
+    margin: -33px 0 0 0;}
+.sent_box{}
+.conversations{overflow: scroll;
+max-height: 322px;
+overflow-x: hidden;}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

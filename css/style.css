@@ -1,0 +1,206 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+*{margin:0;padding:0; box-sizing:border-box}
+
+
+h1, h2, h3, h4, h5, h6{font-weight:normal}
+a{text-decoration:none;}
+table{border-collapse: collapse; }
+.header{
+	background: #01503A;
+	height: 150px;
+}
+.header_main{
+	background-color: #01503A;
+
+	width: 1100px;
+	height: 150px;
+	margin: 0px auto;
+}
+.logo{
+	float: left;
+	height: 130px;
+	width: 130px;
+}
+
+.logo img{
+	height: 130px;
+	width: 130px;	
+margin-top: 9px;
+}
+.for{
+	color: #b8b8b8;
+font-size: 20px;
+line-height: 54px;
+}
+.for:hover{
+color: #808080;
+}
+.institute_title {
+	height: 105px;
+	width: 505px;
+	color: #fff;
+	padding: 0px;
+	line-height: 55px;
+	margin: 17px 0px 0px 30px;
+	float: left;	
+	overflow: hidden;
+}
+.institute_title h2{
+	font-size: 30px;
+}
+.institute_title h3{
+	font-size: 20px;
+}
+.head_contact{
+	width: 251px;
+	height: 115px;
+	float: left;
+	overflow: hidden;
+	border-right: 1px solid #fff;
+	margin: 20px 4px 0px 0px;
+}
+.social_bookmark{
+	margin: 20px 0px 0px 43px;
+	width: 193px;
+	height: 39px;
+}
+.social_bookmark img{
+	height: 25px;
+	float: right;
+	margin: 0px 0px 0px 10px;
+
+}
+.hotline{
+	color: #fff;
+margin: 5px 12px 0 0px;
+float: right;
+}
+.login {
+font-size: 23px;
+padding: 23px 0px 0px 0px;
+line-height: 28px;
+width: 175px;
+overflow: hidden;
+height: 230px;
+}
+.login_not{
+	margin-top: 12px;
+	line-height: 36px;
+}
+.login_not a{
+	padding: 0px 0px 0px 1px;
+	color: #fff;
+}
+.login_not a:hover{
+	color:#4EA85B;
+}
+/*.login ul li ul{position: absolute;display: none;}
+.login ul li:hover ul{display: block;}
+.login ul li:hover ul li{background: #F6F7F9; border-bottom: 1px solid #3251A1;border-left: 1px solid #3251A1;border-right: 1px solid #3251A1;cursor: pointer;}
+.login ul li:hover ul li:first-child{border-top: 1px solid #3251A1}
+.login ul li:hover ul li a{color: #3251A1}
+.login ul li:hover ul li:hover{background: #BECCEE;}*/
+.divider{
+	height: 1px;
+}
+.menu_container_all{background: none repeat scroll 0 0 #01503A;}
+.menu_content{background: none repeat scroll 0 0 #01503A;display:block;height: 45px;width: 1100px;margin: 0 auto;}
+
+
+.menu{height: 45px;width:96%;margin:1px auto;}
+.menu ul{margin:0;padding:0;list-style:none;}
+.menu ul li{float:left;font-size: 17px;margin: 9px 0px 0px;
+padding: 3px 8px;
+border-right: 1px solid #3D8C76;}
+.menu ul li:hover{position: relative;color:white;
+background: #4EA85B;}
+.menu ul li:last-child{border-right: none;}
+.menu ul li a{color: white;display: block;}
+.menu ul li a:hover{display: inline-block;}
+.menu ul li ul{position: absolute;display: none;z-index: 1000;}
+
+.menu ul li:hover ul{left: -3px;top: 28px;display: block;width: 200;box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+border: 1px solid rgba(0,0,0,0.2);border-radius: 6px;background-clip: padding-box;}
+.menu ul li:hover ul li{background: #F6F7F9;width: 200px;cursor: pointer;margin: 0;padding:5px 8px 0px;border-right: none;}
+.menu ul li:hover ul li:hover{background: #C2D3F6;}
+.menu ul li:hover ul li a{color: #3251A1;padding:0px 0px 5px;border-bottom:1px solid #90A3D6;}
+
+
+
+.login_user_pic{
+	margin: 25px 0 0 0;
+}
+.login_user_pic ul{list-style: outside none none;z-index: 100000;}
+.login_user_pic ul li{}
+.login_user_pic ul li a{text-decoration: none;font-size: 15px;}
+.login_user_pic ul li:hover{position: relative;background-color: #013124}
+.login_user_pic ul li ul{position: absolute;display: none;box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+border: 1px solid rgba(0,0,0,0.2);border-radius: 6px;background-clip: padding-box;}
+.login_user_pic ul li:hover ul{left: -70px;right:10px;top: 50px;display: block;z-index: 10000000}
+.login_user_pic ul li:hover ul li{background: #fff;width:180;}
+
+.login_user_pic ul li:hover ul li a{color: #000;margin-left: 15px}
+.login_user_pic ul li:hover ul li a{color: #3251A1}
+.login_user_pic ul li:hover ul li:hover{background: #BECCEE;}
+.header_pro_pic{
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	border: 4px solid #fff;
+}
+.header_pro_pic_side_arrow{
+	width: 12px;
+margin: 0px 0px 14px 0px;
+}
+.massage_icon{
+	float: left;
+	border-right: 1px solid #46957F;
+	    padding: 13px 6px 5px 6px;
+}
+.massage_icon img{width: 32px;}
+.notification_icon{
+	float: left;
+	border-right: 1px solid #46957F;
+	padding: 10px 3px 0px 2px;
+}
+.notification_icon img{width: 40px;}
+.profile_option{
+	width: 79px;
+float: left;
+padding: 10 10 0 10;
+border-radius: 5px 5px 0px 0px;
+}
+.slider{
+	    margin: 1px auto;
+    width: 1100px;
+
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+
+.border{
+	padding: 14px;
+	margin: 2px auto;
+}
+
+.fix{
+	overflow: hidden;
+}

@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri|Slabo+27px&subset=latin,bengali);
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:22px;color:#000;}
+.admission{
+	width: 1000px;
+margin: 2px auto;
+border: 1px solid;
+position: relative;
+}
+.admission_form{
+	width: 746px;
+margin: 0 auto;
+padding: 18px;
+}
+.flda{
+	width: 263px;
+	height: 31px;
+	margin: 4px;
+	padding: 1px 0px 1px 9px;
+}
+.admission_form tr{}
+.admission_form td{color: black;
+width: 290px;
+font-size: 20px;}
+.checkbox{margin: 0 12px 10px 0;}
+
+
+
+input[type="submit"] {
+	margin-top: 2em;
+	color: #fff;
+	cursor: pointer;
+	font-weight: 900;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	padding: 12px 0px;
+	width: 35%;
+	font-size: 18px;
+	background: #6C496F;
+	border: 2px solid #6C496F;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+}
+.admission_header{width: 1000;
+margin: 0 auto;
+font-size: 18;
+color: black;
+padding: 9 0 10 0;}
+.admission_header h3{}
+.admission_footer{
+	width: 683px;
+border: 1px solid;
+padding: 12 0 11 19;
+margin-top: 13;
+}
+.admission_footer h3{}
+.error{
+	    font-size: 21px;
+    margin: 0px 0px 15px 0px;
+    color: red;
+    height: 21px;
+}
+
+.fldas{
+	width: 210px;
+height: 31px;
+margin: 4px;
+padding: 1px 0px 1px 9px;
+}
+.s{
+	float: left;
+margin: 4px 0 0 4px;
+background: #DADAE5;
+padding: 5px 5px 4px 3px;
+}
+
+
+.admission_successful{width: 1000;
+margin: 1px auto;}
+.admission_successful_header{
+	padding: 16px;
+background: rgb(216, 237, 214) none repeat scroll 0% 0%;
+border-radius: 10px;
+font-size: 19;
+color: #01503A;
+margin: 23px 0 24px 0;
+font-family: 'Hind Siliguri',sans-serif;
+}
+.admission_successful_body{
+	border: 1px solid;
+	padding: 33;
+	font-size: 22;
+	line-height: 36px;
+}
+.admission_successful_content{}
+.bkash{
+	margin: 0 0 0 64;
+width: 804px;
+}
+
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
